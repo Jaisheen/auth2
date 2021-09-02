@@ -1,1 +1,2 @@
-# auth2
+# BarCodeScanner
+BarCode scanning in WiLy
